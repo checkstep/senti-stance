@@ -22,7 +22,6 @@ $ pip install -r requirements.txt
 We release our few-shot splits (32, 64, 128, 256) in the [data/fewshow](data/fewshow) folder. Moreover, we release the sentiment annotated Wiki snipets in the [data/wikipedia](data/wikipedia) folder. The full training, dev and test sets can be obtained from the links below.
 
 ### Multilingual
-* conref-ita arabicfc ans nlpcc czech dast e-fra hindi iberval2017-ca iberval2017-es r-ita rustance sardistance turkish xstance-de xstance-fr
 * Stance Prediction and Claim Verification: An Arabic Perspective [Data](https://github.com/latynt/ans) (ans)
 * Integrating Stance Detection and Fact Checking in a Unified Corpus [Data](http://groups.csail.mit.edu/sls/downloads/factchecking/) (arabicfc)
 * Detecting Stance in Czech News Commentaries [Data](http://nlp.kiv.zcu.cz/research/sentiment#stance) (czech)
